@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [screen-blog-post](screens/blog-post)
 - [react-native-articles](modules/articles)
+- [screen-activity-feed](screens/activity-feed)
 
 # Getting started: Frontend
 

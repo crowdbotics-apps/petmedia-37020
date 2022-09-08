@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-image-editing](screens/image-editing)
 - [react-native-chat](modules/chat)
 - [camera]()
+- [screen-blog-post](screens/blog-post)
 
 # Getting started: Frontend
 
